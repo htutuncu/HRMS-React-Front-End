@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 
 ![alt text](https://github.com/htutuncu/HRMS-React-Front-End/blob/main/hierarchy.PNG "Component Hierarchy")
+![alt text](https://github.com/htutuncu/HRMS-React-Front-End/blob/main/employersPage.PNG "Employers Page")
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
