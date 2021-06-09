@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+
+![alt text](https://github.com/htutuncu/HRMS-React-Front-End/blob/main/hierarchy.PNG "Component Hierarchy")
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +71,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# HRMS-React-Front-End
+Human Resources Management System Front End Application with React.
+
+![alt text](https://github.com/htutuncu/HRMS-React-Front-End/blob/main/hierarchy.PNG "Component Hierarchy")
+>>>>>>> 51d560ca1907b84993858d0cee99d41275a9de09
